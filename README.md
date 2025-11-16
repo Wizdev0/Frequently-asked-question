@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Frequently-asked-question.com](https://wizdev0.github.io/Frequently-asked-question/)
 
 ## My process
 
